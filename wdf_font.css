@@ -1,3 +1,4 @@
+@charset "utf-8";
 /* 잘난체 */
 @font-face {font-family: 'JalnanGothic';src: url('https://cdn.jsdelivr.net/gh/webdesignfarm/font2/JalnanGothic.woff') format('woff2');}
 @font-face {font-family: 'Jalnan';src: url('https://cdn.jsdelivr.net/gh/webdesignfarm/font/Jalnan.woff2') format('woff2');}
