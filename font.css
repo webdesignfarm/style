@@ -16,4 +16,9 @@
     font-style: normal;
 }
 
+/* 지마켓 */
+@font-face {font-family: 'GmarketSansTTFLight';src: url('https://cdn.jsdelivr.net/gh/webdesignfarm/font/GmarketSansTTFLight.woff') format('woff');}
+@font-face {font-family: 'GmarketSansTTFMedium';src: url('https://cdn.jsdelivr.net/gh/webdesignfarm/font/GmarketSansTTFMedium.woff') format('woff');}
+@font-face {font-family: 'GmarketSansTTFBold';src: url('https://cdn.jsdelivr.net/gh/webdesignfarm/font/GmarketSansTTFBold.woff') format('woff');}
+
 body,h1,h2,h3,h4,h5,h6,p,div,li,dt,dd,input,textarea,button{font-family: "Noto Sans","Nanum Gothic","Malgun Gothic",sans-serif;}
